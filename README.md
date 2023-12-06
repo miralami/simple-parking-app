@@ -22,3 +22,9 @@ So here it is, a mess and in need of a lot of improvement of course.
 Feel free to use it in your project! It would be kind for you if you mention me or dm me if you use the code!
 
 Anyway, thanks for reading this... I hope you can learn more from the code..!
+
+NOTE: 
+The code requires you to install a module named pwinput. The module itself functions as the mask for the pin input.
+To install it, you can go to the official website which is: https://pypi.org/project/pwinput/
+If you don't want it to be complicated:
+You can use getpass() instead or just use normal input if you don't need to mask it.
