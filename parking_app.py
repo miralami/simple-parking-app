@@ -98,10 +98,10 @@ while choice != 0:
             waktu_menit = ceil(durasi_detik / 60)
             bayar = tarif * waktu_menit
             if waktu_menit >= 6:
-                denda = bayar - (bayar * 0.25)
+                denda = bayar + (bayar * 0.25)
                 print("Karena anda parkir lebih dari 6 menit, maka dikenakan denda 25%")
             elif waktu_menit >= 4:
-                denda = bayar - (bayar * 0.1)
+                denda = bayar + (bayar * 0.1)
                 print("Karena anda parkir lebih dari 4 menit, maka dikenakan denda 10%")
                 
             print(f"Tarif parkir anda: {bayar:,}\n")
