@@ -3,9 +3,9 @@
 python cli program to manage parking using simple logic
 ## Installation
 pip install this repo
-`
+```
 pip install pwinput
-`
+```
 ### Description
 This is the final project of my first semester in college.
 
