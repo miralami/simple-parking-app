@@ -15,13 +15,13 @@ It's a source code of a parking program that is written in Indonesian Language.
 
 Here are the rules from the lecturer:
 1. Variables and data types
-2. Constant
-3. Branching
-4. Looping
-5. Function
-6. Alternative flow handling for error handling
-7. Exceptions
-8. Using lists or dictionaries
+1. Constant
+1. Branching
+1. Looping
+1. Function
+1. Alternative flow handling for error handling
+1. Exceptions
+1. Using lists or dictionaries
 
 The code doesn't include classes whatsoever as I can't use it, in accordance to rule above.
 
